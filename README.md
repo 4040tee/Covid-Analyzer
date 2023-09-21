@@ -1,4 +1,3 @@
-'''html
 <body marginheight="0" data-new-gr-c-s-check-loaded="14.984.0" data-gr-ext-installed=""><h2>Introduction</h2>
 <p>This project is designed to provide a retrieval of COVID-19 infection data for countries one or more selected countries,
 computes different statistics on the data, and renders the result on a graphical
@@ -39,6 +38,5 @@ b)Press Submit!
 
 
 </p>
-<p>Edit By <a href="http://mahua.jser.me">MaHua</a></p>
 </body>
-'''
+
