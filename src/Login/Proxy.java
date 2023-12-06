@@ -3,7 +3,6 @@ package Login;
 import javax.swing.JFrame;
 /*
  * This class functions as a "proxy" and  creates a substitute login object
- * @author Menghan Wang
  * @param String users'input
  */
 public class Proxy extends Subject {

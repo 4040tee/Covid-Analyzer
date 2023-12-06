@@ -2,7 +2,6 @@ package dataretrieval;
 
 /**
  * RestRetrieval class uses the strategy design pattern to call the appropriate strategy to retrieve the requested data using an HTTP GET request to retrieve a JSON stream
- * @author Michelle Ho
  *
  */
 public class RestRetriever {

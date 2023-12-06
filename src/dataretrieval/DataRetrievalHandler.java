@@ -2,7 +2,6 @@ package dataretrieval;
 
 /**
  * This abstract class manages the chain of responsibility design pattern for data retrieval 
- * @author Michelle Ho
  *
  */
 

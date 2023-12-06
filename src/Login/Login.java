@@ -13,7 +13,6 @@ import javax.swing.JTextField;
 /*
  * main login function generates a frame for users to login to the main UI
  * Initialize a proxy for login request
- * @author Menghan Wang
  * 
  */
 

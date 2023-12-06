@@ -2,7 +2,6 @@ package dataretrieval;
 
 /**
  * RestRetrieverFactory uses the factory design pattern to dynamically create the appropriate RestRetrievalStrategy for the type of data requested
- * @author Michelle Ho
  *
  */
 public class RestRetrieverFactory {

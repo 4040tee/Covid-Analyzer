@@ -15,7 +15,6 @@ import GUI.GUI;
 /*
  * bulid a proxy realsubject to function the actual login process
  * check the combination input and jump to GUI if pass
- * @author Menghan Wang
  */
 public class RealSubject extends Subject {
     //@Override

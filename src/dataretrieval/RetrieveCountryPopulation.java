@@ -12,7 +12,6 @@ import com.google.gson.JsonParser;
 
 /**
  * RetrieveCountryPopulation is a class of type RetrievalStrategies, is a strategy for retrieving the population of a given country
- * @author Michelle Ho
  *
  */
 public class RetrieveCountryPopulation extends RetrievalStrategies{

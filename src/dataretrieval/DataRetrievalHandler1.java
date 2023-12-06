@@ -5,7 +5,6 @@ package dataretrieval;
  * Uses factory design pattern to to generate appropriate strategy class for request if applicable, else strategy is null
  * If strategy is not null, use strategy design pattern in RestRetriever to get requested data
  * If strategy is null, pass to next successor in chain of responsibility if there is one
- * @author Michelle Ho
  *
  */
 public class DataRetrievalHandler1 extends DataRetrievalHandler{

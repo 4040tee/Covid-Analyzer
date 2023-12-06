@@ -12,7 +12,6 @@ import com.google.gson.JsonParser;
 
 /**
  * RetrieveCovidCasesFemale is a class of type RetrievalStrategies, is a strategy for retrieving the total covid cases of a given country
- * @author Michelle Ho
  *
  */
 public class RetrieveCovidCasesFemale extends RetrievalStrategies{

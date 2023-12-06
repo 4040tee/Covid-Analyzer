@@ -11,7 +11,6 @@ import java.util.Map;
 /**
  * DB class reads from database text file (coordinates.csv)
  * DB class is implemented using the Singleton design pattern, which ensures that only one DB class is created since there is just one database that is accessed
- * @author Michelle Ho
  *
  */
 public class DB {

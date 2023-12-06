@@ -3,7 +3,6 @@ package dataretrieval;
 /**
  * DataRetriever is the main class for the dataretrieval package. It has the interfaces getData(), which allows the interacting component to get data for a specified country
  * and request type and checkCountryInDB which takes in a country name and returns a boolean indicating whether that country is stored in the database
- * @author Michelle Ho
  *
  */
 public class DataRetriever {
