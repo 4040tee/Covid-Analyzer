@@ -4,8 +4,6 @@ computes different statistics on the data, and renders the result on a graphical
 interface.
 
 </p>
-<pre><code>* For a full description of the module, visit the project page:
-https://owl.uwo.ca/access/content/group/c9cc47fe-7c6c-49b0-9dd5-247a2977f123/Project%20Resources/CS2212A-Project-Description.pdf</code></pre>
 <h2>Instructions</h2>
 <h3>Start and Run</h3>
 <p>1.
